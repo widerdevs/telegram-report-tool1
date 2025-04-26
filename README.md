@@ -2,7 +2,7 @@
 
 The best REPORT BOT in the social hub. 
 
-developer > https://t.me/reportbulkmassbot
+report bot > https://t.me/reportbulkmassbot
 
 ![rbs](https://github.com/user-attachments/assets/79d4022f-853b-4acb-adb9-f7db7ce6ce55)
 
