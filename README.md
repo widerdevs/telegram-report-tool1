@@ -10,3 +10,4 @@ telegram report software
 telegram report bot
 telegram report app
 telegram ban app
+telegram report bot
