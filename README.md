@@ -14,3 +14,4 @@ telegram report bot
 telegram mass report
 telgegram ban bot
 telegram mass report tool
+telegram ban tool
