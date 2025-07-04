@@ -10,7 +10,7 @@ report bot > https://t.me/profcodes
 # telegram report bot
 # telegram report app
 # telegram ban app
-telegram report bot
+# telegram report bot
 telegram mass report
 telgegram ban bot
 telegram mass report tool
