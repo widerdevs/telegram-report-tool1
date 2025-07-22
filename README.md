@@ -15,4 +15,4 @@ report bot > https://t.me/profcodes
 # telgegram ban bot
 # telegram mass report tool
 # telegram ban tool
-telegram mass report
+# telegram mass report
