@@ -19,3 +19,4 @@ report bot > https://t.me/profcodes
 # telegram banner
 # telegram ban
 # tg banner
+# telegram mass reporter
